@@ -1,0 +1,112 @@
+@charset "UTF-8";
+/* 水平间距 */
+/* 水平间距 */
+#fill-in-container.data-v-614d9068 {
+  position: absolute;
+  overflow: hidden;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  opacity: 0;
+  height: 0;
+}
+#fill-in-container .fill-in-panel.data-v-614d9068 {
+  width: 100%;
+  height: 100%;
+  overflow: scroll;
+}
+.page-container.data-v-614d9068 {
+  position: relative;
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: white;
+}
+#top-decoration.data-v-614d9068 {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+#top-decoration image.data-v-614d9068 {
+  width: 100%;
+  height: 100%;
+  display: block;
+}
+.bottom-decoration.data-v-614d9068 {
+  position: absolute;
+  height: 240rpx;
+  background-color: orange;
+  opacity: .2;
+  border-radius: 100% / 100%;
+  right: 0rpx;
+  left: 0rpx;
+  bottom: 0;
+  -webkit-transform: translateY(56%);
+          transform: translateY(56%);
+}
+#title-content.data-v-614d9068 {
+  z-index: 99;
+  width: 100%;
+  padding: 20rpx 0;
+}
+#title-content .company-text.data-v-614d9068 {
+  font-size: 50rpx;
+  text-align: center;
+}
+#title-content .title-text.data-v-614d9068 {
+  font-size: 40rpx;
+  text-align: center;
+}
+#describe-content.data-v-614d9068 {
+  z-index: 101;
+  width: 100%;
+  padding: 20rpx 0;
+}
+#describe-content .logo.data-v-614d9068 {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20rpx;
+}
+#describe-content .start-button.data-v-614d9068 {
+  padding: 0 120rpx;
+  margin-bottom: 120rpx;
+  margin-top: 80rpx;
+}
+#describe-content .start-button button.data-v-614d9068 {
+  font-size: 30rpx;
+  border-radius: 100rpx;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+#describe-content .start-button button.data-v-614d9068::after {
+  border: none;
+}
+.data-v-614d9068 .uni-forms-item__content {
+  display: flex;
+  align-items: center;
+}
+.data-v-614d9068 .uni-forms-item__content .unit {
+  margin: 0 20rpx;
+}
+.data-v-614d9068 .uni-forms-item__label text {
+  width: 100%;
+  text-align: right;
+}
+.transport-direction-img.data-v-614d9068 {
+  width: 100%;
+}
+.form-submit-button.data-v-614d9068 {
+  padding: 20rpx;
+}
+.form-submit-button button.data-v-614d9068 {
+  font-size: 30rpx;
+  border-radius: 100rpx;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+

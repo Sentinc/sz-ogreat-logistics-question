@@ -1,0 +1,20 @@
+{
+	"pages": [
+		{
+			"path": "pages/welcome/welcome",
+			"style": {
+				"navigationBarTitleText": "深圳欧格瑞",
+				"navigationStyle": "custom"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "深圳欧格瑞",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"background": "#efeff4"
+		}
+	}
+}
